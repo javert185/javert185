@@ -43,9 +43,9 @@
 
 Joc de Daus
 
-![Juego de Dados 1](jocdedaus/jocdedaus1.png)
-![Juego de Dados 2](jocdedaus/jocdedaus2.png)
-![Juego de Dados 3](jocdedaus/jocdedaus3.png)
-![Juego de Dados 4](jocdedaus/jocdedaus4.png)
+<img src="jocdedaus/jocdedaus1.png" width="150">
+<img src="jocdedaus/jocdedaus2.png" width="150">
+<img src="jocdedaus/jocdedaus3.png" width="150">
+<img src="jocdedaus/jocdedaus4.png" width="150">
 
-Project link: [https://github.com/javert185/Joc_de_Daus](https://gi
+Project link: [https://github.com/javert18
