@@ -41,8 +41,9 @@
 
 ## 🚀 Projects
 
-# Joc de Daus
-[<img src="jocdedaus/jocdedaus1.png" width="200">](jocdedaus/jocdedaus1.png)
-[<img src="jocdedaus/jocdedaus2.png" width="200">](jocdedaus/jocdedaus2.png)
-[<img src="jocdedaus/jocdedaus3.png" width="200">](jocdedaus/jocdedaus3.png)
-[<img src="jocdedaus/jocdedaus4.png" width="200">](jocdedaus/jocdedaus4.png)
+<h1>Joc de Daus</h1> 
+<h3>Project link: [https://github.com/javert185/Joc_de_Daus](https://github.com/javert185/Joc_de_Daus)</h3>
+[<img src="jocdedaus/jocdedaus1.png" width="250">](jocdedaus/jocdedaus1.png)
+[<img src="jocdedaus/jocdedaus2.png" width="250">](jocdedaus/jocdedaus2.png)
+[<img src="jocdedaus/jocdedaus3.png" width="250">](jocdedaus/jocdedaus3.png)
+[<img src="jocdedaus/jocdedaus4.png" width="250">](jocdedaus/jocdedaus4.png)
