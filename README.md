@@ -42,7 +42,7 @@
 ## 🚀 Projects
 
 
-# Joc de Daus
+<h2>Joc de Daus</h2>
 
 ![Juego de Dados 1](jocdedaus/jocdedaus1.png)
 ![Juego de Dados 2](jocdedaus/jocdedaus2.png)
