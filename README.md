@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sergicarapuig@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sergi-carapuig-masnou/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sergi-carapuig-masnou/" height="30" width="40" /></a>
 <a href="https://instagram.com/sergi.carapuig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sergi.carapuig" height="30" width="40" /></a>
