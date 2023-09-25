@@ -25,6 +25,10 @@
 
 ### :wrench: Tools
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  
+  </a>
+<a href="https://gradle.org" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle" width="40" height="40"/>
+</a>
  </p>
 
 <h3 align="left">Projects:</h3>
