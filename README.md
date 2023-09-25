@@ -39,9 +39,8 @@
 
 
 
-<h3 align="left">Projects:</h3>
+## ⚡ Projects
 
-<!-- Project 1 -->
 <div>
   <h4>Juego de dados</h4>
   <a href="Link to Project 1 on GitHub">GitHub Repository</a>
