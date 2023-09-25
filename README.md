@@ -4,6 +4,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/javert185](https://github.com/javert185)
 
 - 📫 How to reach me **sergicarapuig@gmail.com**
+  
+- 💡 I am looking to improve my programming skills, with the aim of participating in innovative projects
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
