@@ -39,7 +39,7 @@
 
 
 
-## ⚡ Projects
+## 🚀 Projects
 
 <div>
   <h4>Juego de dados</h4>
