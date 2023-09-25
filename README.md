@@ -49,5 +49,5 @@ Project link: [https://github.com/javert185/Joc_de_Daus](https://github.com/jave
 
 ### Bretxa salarial
 
-<img src="bretxa/bretxa.png" width="400">
+<img src="bretxa/bretxa.png" width="400"> <img src="bretxa/taules.png" width="400">
 
