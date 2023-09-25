@@ -43,6 +43,6 @@
 
 ### Joc de Daus
 
-<img src="jocdedaus/jocdedaus1.png" width="250"> <img src="jocdedaus/jocdedaus2.png" width="250"> <img src="jocdedaus/jocdedaus3.png" width="250"> <img src="jocdedaus/jocdedaus4.png" width="250">
+<img src="jocdedaus/jocdedaus1.png" width="350"> <img src="jocdedaus/jocdedaus2.png" width="350"> <img src="jocdedaus/jocdedaus3.png" width="350"> <img src="jocdedaus/jocdedaus4.png" width="350">
 
 Project link: [https://github.com/javert185/Joc_de_Daus](https://github.com/javert185/Joc_de_Daus)
