@@ -41,10 +41,8 @@
 
 ## 🚀 Projects
 
-<div>
-  <h4>Juego de dados</h4>
-  <a href="Link to Project 1 on GitHub">GitHub Repository</a>
-  <!-- Add any images or screenshots related to Project 1 -->
-  <img src="URL to Image 1" alt="Project 1 Image 1" width="200" />
-  <img src="URL to Image 2" alt="Project 1 Image 2" width="200" />
-</div>
+# Joc de Daus
+![Juego de Dados 1](jocdedaus/jocdedaus1.png)
+![Juego de Dados 2](jocdedaus/jocdedaus2.png)
+![Juego de Dados 3](jocdedaus/jocdedaus3.png)
+![Juego de Dados 4](jocdedaus/jocdedaus4.png)
